@@ -1,0 +1,38 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.class
+.classpath
+.project
+.settings/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Test reports
+test-output/
+test-results/
+allure-results/
+
+# Environment
+.env
+.env.local
+config.local.properties
+
+# OS
+.DS_Store
+Thumbs.db
